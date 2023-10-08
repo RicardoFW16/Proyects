@@ -1,6 +1,6 @@
 # Data Science Projects Repository
 
-Hello there! Welcome to my repository where I've housed various projects. The repository serves as a portfolio, demonstrating my capabilities and experiences in different domains of Data Science, and is intended to be shared with recruiters alongside my CV.
+Hello there! Welcome to my repository where I've housed various projects. The repository serves as a portfolio, demonstrating my capabilities and experiences in different domains of Data Science.
 
 ## Table of Contents
 
