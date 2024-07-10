@@ -41,4 +41,4 @@ Below are brief overviews of the projects you will find in this repository, cate
 Should you have any questions or would like to get in touch, feel free to contact me at:
 
 - Email: ricardoswf@gamail.com.com
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/ricardo-fajardo/)
+- LinkedIn: https://www.linkedin.com/in/ricardo-fajardo/
